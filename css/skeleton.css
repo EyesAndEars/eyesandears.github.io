@@ -215,8 +215,8 @@ input[type="submit"].button-primary:hover,
 input[type="reset"].button-primary:hover{
   color: #FFF;
   /*224772, 33C3F0*/
-  background-color: #224772;
-  border-color: #224772; }
+  background-color: #5683b7;
+  border-color: #5683b7; }
 input[type="button"].button-primary:hover,
 .button.button-primary:focus,
 button.button-primary:focus,
@@ -234,7 +234,11 @@ input[type="button"].button-primary:focus {
 .button.button-primary:active,
 button.button-primary:active,
 input[type="submit"].button-primary:active,
-input[type="reset"].button-primary:active,
+input[type="reset"].button-primary:active{
+  color: #FFF;
+  /*224772, 33C3F0*/
+  background-color: #224772;
+  border-color: #224772; }
 input[type="button"].button-primary:active {
   color: #FFF;
   /*1c2e4d, 1EAEDB*/
